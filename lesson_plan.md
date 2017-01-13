@@ -2,7 +2,7 @@
 
 ### Duration
 
-15 minutes
+20 minutes
 
 ### Instructor Preparation
 
