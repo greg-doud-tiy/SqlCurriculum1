@@ -50,10 +50,10 @@ This would produce a result like this:
 
 | Name | State |
 | ---- | ----- |
-| Bruce Bowen | KY |
-| Dave Dowers | KY |
 | Cathy Craft | IN |
 | Fran Franklin | IN |
+| Bruce Bowen | KY |
+| Dave Dowers | KY |
 | Ed Evans | OH |
 | Alice Albright | OH | 
 
